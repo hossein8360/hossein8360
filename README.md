@@ -24,8 +24,7 @@ Based in Yerevan, Armenia — building resilient Linux infrastructure, automated
 
 ### 🚀 Featured & Upcoming Projects
 - **[cdn-ip-finder](https://github.com/hossein8360/cdn-ip-finder)** *(169 ★)* — High-speed CDN edge IP discovery tool for domain fronting.
-- **[Rockampaign](https://rockampaign.com)** — AI-driven ad campaign decision intelligence platform (infrastructure, self-hosted mail, and deployment automation).
-- **Antigravity Helpers** *(Upcoming)* — Open-source CLI utilities, workflow templates, and automation scripts for Antigravity.
+- **[Rockampaign](https://rockampaign.com)** — AI-driven ad campaign decision intelligence platform (infrastructure, self-hosted mail, and deployment automation)((not available right now, only B2B exclusive DM me for more information)).
 
 ---
 
