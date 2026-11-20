@@ -40,14 +40,13 @@ Based in Yerevan, Armenia — building resilient Linux infrastructure, automated
 ### ☕ Support My Open-Source Work
 If my tools, scripts, or Antigravity helpers save you time, consider supporting future releases:
 
-[![Donate via Crypto](https://img.shields.io/badge/Donate_Crypto-USDT_%7C_TON_%7C_BTC-26A17B?style=for-the-badge&logo=tether&logoColor=white)](https://YOUR_DONATION_LINK_HERE)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_HANDLE)
+[![Donate via Crypto](https://img.shields.io/badge/Donate_Crypto-USDT_%7C_TON_%7C_BTC-26A17B?style=for-the-badge&logo=tether&logoColor=white)](https://nowpayments.io/donation/hossein)
 
-* **USDT (TRC20 / TON):** `YOUR_USDT_WALLET_ADDRESS`
-* **TON:** `YOUR_TON_WALLET_ADDRESS`
+* **USDT (TRC20 / TON):** `TLKj8VM994Q8rPvq9LGwvdF1yHcvVJZUC7`
+* **TON:** `UQBgZXa12scw2AxYt47ia_jR_sLl6EGToISyfEErribfzMxn`
 
 ---
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-ebrahimi-522a4b217/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Hossein.ebrahimi@rockampaign.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ebrahimihossein.work@gmail.com)
